@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 Text me in Instagram. Id- they_hate_subho__
+- 🫀 Freelancer: https://www.freelancer.com/u/Subhradeep099
 - ⚡ Fun fact: I'm new to GitHub
 
